@@ -1,5 +1,9 @@
 .App {
+  margin-top: 20%;
   text-align: center;
+  width: 800;
+  height: 1200px;
+  /* background: url(./images/nelly.jpg); */
 }
 
 .App-logo {
@@ -26,6 +30,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.nqbutton {
+  margin: 20px;
 }
 
 @keyframes App-logo-spin {
